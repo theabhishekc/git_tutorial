@@ -7,3 +7,4 @@ a = "apple"
 print(a)
 print("this is a new addition")
 #what about this 
+print("new")

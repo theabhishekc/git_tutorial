@@ -7,6 +7,3 @@ a = "apple"
 print(a)
 print("this is a new addition")
 #what about this 
-#i am adding a new line for testing
-#hop this works
-print("lol")
